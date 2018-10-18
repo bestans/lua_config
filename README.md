@@ -2,7 +2,7 @@
 You can use the tool to add, delete and modify configure easily, just like drink water.
 简单说，就是一个lua配置读取工具。新建、修改、删除配置选项就像喝水一样简单
 * 支持多种数据格式 Integer/int/Boolean/boolean/Short/short/
-   String/Long/long/ILuaConfig/List<T>/map<T1, T2> 等类型
+   String/Long/long/BaseLuaConfig/List<T>/map<T1, T2> 等类型
 * 支持自定义格式
 * 配置错误，有很清晰的错误提示，不像json一样格式奇葩，格式错了很难定位。
 * 方便扩展
