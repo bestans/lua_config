@@ -1,6 +1,6 @@
 # What is luaconfig ?  luaconfig工具介绍
-You can use the tool to add, delete and modify configure easily, just like drink water.
-简单说，就是一个lua配置读取工具。新建、修改、删除配置选项就像喝水一样简单
+You can use the tool to add, delete and modify configure easily in java project, just like drink water.
+简单说，就是一个java项目可以使用的lua配置读取工具。新建、修改、删除配置选项就像喝水一样简单
 * 支持多种数据格式 Integer/int/Boolean/boolean/Short/short/
    String/Long/long/BaseLuaConfig/List<T>/map<T1, T2> 等类型
 * 支持自定义格式
